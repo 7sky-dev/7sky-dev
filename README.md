@@ -2,6 +2,7 @@
 
 I am 7sky, a **Full Stack Developer**.
 I'm very ambitious,  systematic and hard-working young developer who wants to achieve their dreams as also be successful in his professional life. 
+<br />
 I can easily leave my comfort zone and try something new.
 
 ## 🛠 Tech 🛠
