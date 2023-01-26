@@ -3,7 +3,7 @@
 ## 🚀 About Me 🚀
 I am 7sky, a **Full Stack Developer**.
 
-## Tech 🛠
+## 🛠 Tech 🛠
 
 ### 💅🏻 Front End 💅🏻
 
