@@ -12,8 +12,6 @@ I am 7sky, a **Full Stack Developer**.
 ![php](https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br />
-
 
 ### 🖼️ Frameworks 🖼️
 
@@ -23,13 +21,9 @@ I am 7sky, a **Full Stack Developer**.
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<br />
-
 
 ### 📚 Languages 📚
 
 ![python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
