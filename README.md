@@ -13,6 +13,7 @@ I am 7sky, a **Full Stack Developer**.
 
 <br />
 ### 🖼️ Frameworks
+
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![angular](https://img.shields.io/badge/Angular-A6120D?style=for-the-badge&logo=angular&logoColor=white)
@@ -21,6 +22,7 @@ I am 7sky, a **Full Stack Developer**.
 
 <br />
 ### 📚 Languages
+
 ![python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white)
