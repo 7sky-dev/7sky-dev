@@ -10,3 +10,4 @@ I am 7sky, a **Full Stack Developer**.
 ![java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=white)
 ![angular](https://img.shields.io/badge/Angular-A6120D?style=for-the-badge&logo=angular&logoColor=white)
+![c++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white)
