@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
 
 <p align="center">
-  I am 7sky, a <b>Full Stack Developer</b>.
+I am 7sky, a <b>Full Stack Developer</b>.<br />
 I'm very ambitious,  systematic and hard-working young developer who wants to achieve their dreams as also be successful in his professional life. 
 <br />
 I can easily leave my comfort zone and try something new.
