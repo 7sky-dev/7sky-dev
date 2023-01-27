@@ -5,15 +5,13 @@ I am 7sky, a <b>Full Stack Developer</b>.<br />
 I'm very ambitious,  systematic and hard-working young developer who wants to achieve their dreams as also be successful in his professional life. I can easily leave my comfort zone and try something new.
 </p>
 
-## 🛠 Tech 🛠
-
-### 💅🏻 Front End 💅🏻
+## 💅🏻 Front End 💅🏻
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 💻 Back End 💻
+## 💻 Back End 💻
 
 ![php](https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
