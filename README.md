@@ -2,9 +2,7 @@
 
 <p align="center">
 I am 7sky, a <b>Full Stack Developer</b>.<br />
-I'm very ambitious,  systematic and hard-working young developer who wants to achieve their dreams as also be successful in his professional life. 
-<br />
-I can easily leave my comfort zone and try something new.
+I'm very ambitious,  systematic and hard-working young developer who wants to achieve their dreams as also be successful in his professional life. I can easily leave my comfort zone and try something new.
 </p>
 
 ## 🛠 Tech 🛠
