@@ -4,7 +4,7 @@
 I am 7sky, a <b>Full Stack Developer</b>.<br />
 I am at the beginning of my journey with commercial developement.
 I'm very ambitious, systematic, hard-working and hungry for knowledge young developer, who wants to achieve their dreams as also be successful in his professional life.
-<br />
+<br /> <br />
 I can easily leave my comfort zone and try something new.
 </p>
 
