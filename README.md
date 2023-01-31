@@ -34,3 +34,9 @@ I can easily leave my comfort zone and try something new.
 ![java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
 ![c++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## 👩‍💻 IDE 👩‍💻
+
+![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![vs](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
