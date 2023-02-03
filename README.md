@@ -1,13 +1,3 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
-
-<p align="center">
-I am 7sky, a <b>Full Stack Developer</b>.<br />
-I am at the beginning of my journey with commercial developement.
-I'm very ambitious, systematic, hard-working and hungry for knowledge young developer, who wants to achieve their dreams as also be successful in his professional life.
-<br /> <br />
-I can easily leave my comfort zone and try something new.
-</p>
-
 ## 💅🏻 Front End 💅🏻
 
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
