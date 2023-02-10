@@ -31,6 +31,3 @@
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![vs](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![androidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-## 🔥 Streak 🔥
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7sky-dev&show_icons=true&theme=dracula)
