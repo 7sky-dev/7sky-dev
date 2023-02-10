@@ -33,4 +33,4 @@
 ![androidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## 🔥 Streak 🔥
-[![GitHub Streak](https://streak-stats.demolab.com?user=7sky-dev&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=7sky-dev&show_icons=true&theme=dracula)
