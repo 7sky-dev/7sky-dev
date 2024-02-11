@@ -2,7 +2,7 @@
 
 ## 🚀 About me 🚀
 
-My name is **Piotr Kapeluszny**, an aspiring and ambitious teenager with a passion for full-stack development. At just 18 years old, I am constantly expanding my skill set and seeking new opportunities to grow.
+My name is **Piotr Kapeluszny**, an aspiring and ambitious teenager with a passion for full-stack development. At just 19 years old, I am constantly expanding my skill set and seeking new opportunities to grow.
 
 ## 🛠️ Skills 🛠️
 
