@@ -1,50 +1,85 @@
-# 👋 _Hi there!_ 👋
+<div align="center">
 
-## 🚀 About me 🚀
+  <h1 style="border-bottom: none;">Piotr Kapeluszny</h1>
+  
+  <code>Cybersecurity Student &nbsp;|&nbsp; Backend Specialist &nbsp;|&nbsp; Software Engineer</code>
 
-My name is **Piotr Kapeluszny**, an aspiring and ambitious teenager with a passion for full-stack development. At just 18 years old, I am constantly expanding my skill set and seeking new opportunities to grow.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Python+%26+C%2B%2B+Developer;Security+%26+Network+Enthusiast;Commercial+Experience+in+TS;Building+Scalable+Backend+Solutions" alt="Typing SVG" />
+  </a>
 
-## 🛠️ Skills 🛠️
+</div>
 
-### Front-end Development
+## 👨‍💻 Summary
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-<br />![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![angular](https://img.shields.io/badge/Angular-A6120D?style=for-the-badge&logo=angular&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+I am a **Cybersecurity Student** combining academic foundations in **Networking** with strong practical skills in **Software Engineering**. My expertise lies in building robust backend systems, automating workflows, and securing data. I have commercial experience delivering production-ready code in TypeScript.
 
-### Back-end Development
+<br />
 
-![expressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![php](https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3 align="center">🎯 Core Focus</h3>
+        <ul>
+          <li><strong>Backend Engineering:</strong> Python, C++, C#</li>
+          <li><strong>Data Architecture:</strong> SQL & NoSQL design</li>
+          <li><strong>Security:</strong> E2E Encryption, NetSec</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3 align="center">🧠 Current Research</h3>
+        <ul>
+          <li><strong>Network Analysis:</strong> Traffic monitoring & safety</li>
+          <li><strong>Machine Learning:</strong> AI in threat detection</li>
+          <li><strong>System Hardening:</strong> Linux environments</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### Databases
+<br />
 
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+## 🛠️ Technical Arsenal
 
-### Programming Languages
+<div align="center">
 
-![c++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
-![python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  **SECURITY & ENVIRONMENT**
+  <br />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Network_Engineering-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
 
-## 💻 Workspace Setup 💻
+  **PROGRAMMING LANGUAGES**
+  <br />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-### Hardware
+  **BACKEND & DATA INFRASTRUCTURE**
+  <br />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-![cpu](https://img.shields.io/badge/Intel%20Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gpu](https://img.shields.io/badge/NVIDIA-GTX1660TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![ram](https://img.shields.io/badge/RAM-32GB-0071C5?style=for-the-badge&logo=memory&logoColor=white)
+  **FRONTEND DEVELOPMENT**
+  <br />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-### Operating System & IDE
+  **TOOLS & AI**
+  <br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 
-![system](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![system](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br />
-![IDE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IDE](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![IDE](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)
+</div>
