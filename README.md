@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Piotr Kapeluszny  
 
 ### 🚀 About Me  
-I’m a 19-year-old aspiring full-stack developer with a strong passion for building modern applications and continuously expanding my skill set. I’m ambitious, curious, and always looking for opportunities to grow as a developer.  
+I’m a 20-year-old aspiring full-stack developer with a strong passion for building modern applications and continuously expanding my skill set. I’m ambitious, curious, and always looking for opportunities to grow as a developer.  
 
 ---
 
