@@ -1,50 +1,49 @@
-# 👋 _Hi there!_ 👋
+# 👋 Hi, I’m Piotr Kapeluszny  
 
-## 🚀 About me 🚀
+### 🚀 About Me  
+I’m a 19-year-old aspiring full-stack developer with a strong passion for building modern applications and continuously expanding my skill set. I’m ambitious, curious, and always looking for opportunities to grow as a developer.  
 
-My name is **Piotr Kapeluszny**, an aspiring and ambitious teenager with a passion for full-stack development. At just 19 years old, I am constantly expanding my skill set and seeking new opportunities to grow.
+---
 
-## 🛠️ Skills 🛠️
+## 🛠️ Skills  
 
-### Front-end Development
+### Front-End  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Angular](https://img.shields.io/badge/Angular-A6120D?style=for-the-badge&logo=angular&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-<br />![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![angular](https://img.shields.io/badge/Angular-A6120D?style=for-the-badge&logo=angular&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Back-End  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=white)  
 
-### Back-end Development
+### Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
-![expressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![php](https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=white)
+### Programming Languages  
+![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
-### Databases
+---
 
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+## 💻 Workspace Setup  
 
-### Programming Languages
+### Hardware  
+![Intel i9](https://img.shields.io/badge/Intel%20Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)  
+![NVIDIA RTX4070](https://img.shields.io/badge/NVIDIA-GTX1660TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)  
+![RAM](https://img.shields.io/badge/RAM-32GB-0071C5?style=for-the-badge&logo=memory&logoColor=white)  
 
-![c++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
-![python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
-![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### OS & IDEs  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)  
 
-## 💻 Workspace Setup 💻
-
-### Hardware
-
-![cpu](https://img.shields.io/badge/Intel%20Core_i7_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![gpu](https://img.shields.io/badge/NVIDIA-GTX1660TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![ram](https://img.shields.io/badge/RAM-32GB-0071C5?style=for-the-badge&logo=memory&logoColor=white)
-
-### Operating System & IDE
-
-![system](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![system](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br />
-![IDE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IDE](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![IDE](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)
+---
